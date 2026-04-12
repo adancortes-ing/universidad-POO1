@@ -33,5 +33,5 @@ Este espacio funciona como un **Monorepositorio**, donde cada actividad se organ
 | 1      | Evidencia de aprendizaje | Programa en Java | Aplicación de consola que calcula el precio de diferentes presentaciones de refresco para una cooperativa escolar. | ✅Finalizado |
 |        |                          |                  |                                                              |             |
 
-![Captura de la Actividad EA-U1](resources/U1-EA_screen (1).png)
-![Captura de la Actividad EA-U1](resources/U1-EA_screen (2).png)
+![Captura de la Actividad EA-U1](resources/U1-EA_screen%20(1).png)
+![Captura de la Actividad EA-U1](resources/U1-EA_screen%20(2).png)
